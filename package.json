@@ -1,0 +1,19 @@
+{
+  "name": "bots",
+  "version": "1.0.0",
+  "description": "do task in background",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AriasaProp/Bots.git"
+  },
+  "author": "AriasaProp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AriasaProp/Bots/issues"
+  },
+  "homepage": "https://github.com/AriasaProp/Bots#readme"
+}
