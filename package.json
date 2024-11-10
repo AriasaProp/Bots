@@ -4,11 +4,12 @@
   "description": "do task in background",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "tests",
+    "start": "start"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AriasaProp/Bots.git"
+    "url": "git+https://github.com/AriasaProp/Bots.git"
   },
   "author": "AriasaProp",
   "license": "ISC",
